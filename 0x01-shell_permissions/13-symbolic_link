@@ -1,5 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _s_
-:w
-:q
-chmod u+x 13-symbolic_link
+ln -s /bin/ls_s_
