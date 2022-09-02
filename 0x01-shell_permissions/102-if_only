@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:staff _h
+chown --from=guillaume betty hello
